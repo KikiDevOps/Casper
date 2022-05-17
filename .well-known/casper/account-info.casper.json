@@ -1,0 +1,65 @@
+{
+    "owner": {
+        "name": "KiKi Finance",
+        "description": "https://kiki.finance/",
+        "type": ["validator"],
+        "identity": {
+            "ownership_disclosure_url": "",
+            "casper_association_kyc_url": "",
+            "casper_association_kyc_onchain": ""
+        },
+        "resources": {
+            "code_of_conduct_url": "",
+            "terms_of_service_url": "",
+            "privacy_policy_url": "",
+            "other": [
+                {
+              "name": "About Us",
+              "url": "http://acme.com/about"
+            }
+            ]
+        },
+        "affiliated_accounts": [
+            {"public_key": "01dea31447abe86d0a9d7cddd59d6be7c363c879f3edda9c6d24c5e40cf57aea5f"}
+        ],
+        "website": "https://kiki.finance/",
+        "email": "",
+        "branding": {
+            "logo": {
+                "png_256": "https://raw.githubusercontent.com/KikiDevOps/Casper/main/kiki_256.png",
+                "png_1024": "",
+                "svg": ""
+            }
+        },
+        "location": {
+            "name": "Singapore",
+            "country": "Singapore",
+            "latitude": 0,
+            "longitude": 0
+        },
+        "social": {
+            "keybase": "",
+            "telegram": "",
+            "twitter": "",
+            "github": "",
+            "youtube": "",
+            "facebook": "",
+            "medium": "",
+            "reddit": "",
+            "wechat": ""
+        }
+    },
+    "nodes": [
+        {
+            "public_key": "01dea31447abe86d0a9d7cddd59d6be7c363c879f3edda9c6d24c5e40cf57aea5f",
+            "description": "https://kiki.finance/",
+            "location": {
+                "name": "Singapore",
+                "country": "Singapore",
+                "latitude": 0,
+                "longitude": 0
+            },
+            "functionality": ["validator"]
+        }
+    ]
+}
